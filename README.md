@@ -1,6 +1,15 @@
-- I’m @TomRob62. My full name is Thomas Roberts, but I prefer to go by Thomas.
-- I’m interested in software development. I am specifically interested in fields that apply machine learning.
-- I’m currently earning my bachelor's in Computer Science at Kennesaw State University.
-- You can reach me at thomasroberts112@outlook.com
-- 
+Thomas Roberts
+---
+About Me:
+- Student at Kennesaw State Univserty
+- Earning a Bachelors in Computer Science
+- Based in the United States
+- Interested in developing machine learning models
 
+Where to find me:
+- thomasroberts112@outlook.com
+- [Handshake](https://kennesaw.joinhandshake.com/stu/users/13034707)
+
+Languages:
+- Java
+- Python
