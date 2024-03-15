@@ -7,9 +7,6 @@ About Me:
 - Interested in developing machine learning models
 
 Where to find me:
-- thomasroberts112@outlook.com
+- thomasroberts112@outlook.com (preferred)
+- trobe137@students.kennesaw.edu
 - [Handshake](https://kennesaw.joinhandshake.com/stu/users/13034707)
-
-Languages:
-- Java
-- Python
