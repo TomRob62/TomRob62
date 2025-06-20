@@ -12,6 +12,7 @@ My interests include:
 - iOS Book Selector App (React Native + Supabase)
 
 Let's connect: 
-thomasroberts112@outlook.com (preferred)
-[LinkedIn](https://www.linkedin.com/in/thomas-r-a44044306/)
-[Handshake](https://kennesaw.joinhandshake.com/stu/users/13034707)
+ thomasroberts112@outlook.com (preferred)  
+ [LinkedIn](https://www.linkedin.com/in/thomas-r-a44044306/)  
+ [Handshake](https://kennesaw.joinhandshake.com/stu/users/13034707)
+
